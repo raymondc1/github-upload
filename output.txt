@@ -1,0 +1,193 @@
+e27
+Transposition 1-2
+Insert d before 4
+Transposition 6-7
+Insert f before 8
+Insert a before 10
+Delete 10
+Delete 12
+Insert s before 16
+Substitute a at 24
+Substitute k at 26
+Substitute s at 27
+Substitute j at 28
+Insert m before 30
+Substitute i at 34
+Transposition 39-40
+Transposition 44-45
+
+17
+Insert u before 1
+Insert y before 2
+Substitute t at 3
+Insert r before 4
+Insert b before 5
+Insert v before 6
+Insert c before 7
+Insert x before 8
+Insert m before 9
+Insert , before 10
+Insert n before 11
+
+83
+Delete 1
+Delete 2
+Delete 3
+Delete 4
+Delete 5
+Delete 6
+Delete 7
+Delete 8
+Delete 9
+Substitute a at 1
+Delete 11
+Delete 12
+Delete 13
+Substitute . at 2
+Delete 15
+Delete 16
+Delete 17
+Delete 18
+Delete 19
+Delete 20
+Delete 21
+Delete 22
+Delete 23
+Delete 24
+
+14
+Substitute i at 1
+Substitute v at 2
+Substitute o at 3
+Substitute h at 4
+Substitute d at 5
+Substitute y at 6
+Substitute n at 7
+Insert   before 8
+Substitute c at 9
+Delete 9
+
+15
+Substitute r at 1
+Delete 2
+Substitute i at 3
+Substitute n at 4
+Insert s before 8
+Insert s before 10
+Substitute d at 12
+Delete 13
+
+245
+Delete 4
+Delete 5
+Substitute e at 4
+Insert w before 5
+Substitute e at 9
+Delete 14
+Substitute 7 at 13
+Substitute p at 14
+Substitute y at 15
+Substitute   at 16
+Insert p before 21
+Delete 24
+Transposition 25-26
+Delete 33
+Substitute e at 33
+Substitute 8 at 34
+Substitute a at 35
+Transposition 36-37
+Transposition 44-45
+Delete 49
+Substitute 5 at 47
+Substitute ; at 51
+Insert l before 53
+Insert s before 56
+Substitute i at 57
+Insert 0 before 59
+Delete 65
+Delete 74
+Substitute k at 76
+Substitute d at 80
+Delete 84
+Transposition 89-90
+Insert r before 94
+Substitute u at 95
+Substitute r at 99
+Substitute e at 100
+Delete 106
+Delete 107
+Substitute x at 113
+Delete 120
+Delete 126
+Transposition 120-121
+Substitute   at 122
+Substitute w at 123
+Insert s before 124
+Transposition 136-137
+Insert 5 before 141
+Substitute l at 142
+Delete 151
+Substitute f at 147
+Transposition 151-152
+Substitute f at 156
+Transposition 157-158
+Substitute 1 at 159
+Delete 166
+Transposition 161-162
+Delete 176
+Substitute t at 169
+Insert   before 171
+Substitute 0 at 177
+Insert d before 180
+Substitute q at 184
+Insert e before 185
+Insert r before 186
+Insert 5 before 193
+Insert . before 198
+Substitute 6 at 201
+Substitute t at 202
+Substitute 3 at 203
+Substitute h at 204
+Insert n before 205
+Insert i before 206
+Transposition 208-209
+Substitute r at 212
+Delete 215
+Transposition 217-218
+Substitute 9 at 221
+Substitute t at 225
+Transposition 226-227
+Transposition 228-229
+Delete 237
+Substitute j at 236
+Insert   before 237
+Delete 242
+Delete 253
+Substitute 6 at 256
+Substitute e at 257
+Delete 264
+Substitute u at 261
+Substitute s at 265
+Delete 270
+Delete 272
+Delete 274
+Delete 275
+Substitute w at 269
+Substitute   at 270
+Substitute o at 272
+Insert i before 273
+Transposition 277-278
+Substitute y at 279
+Delete 287
+Insert c before 292
+Substitute a at 299
+Substitute k at 300
+Substitute 0 at 302
+Delete 317
+Insert a before 319
+Insert q before 320
+Substitute 3 at 325
+Insert 3 before 326
+Delete 333
+Substitute k at 332
+

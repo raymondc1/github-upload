@@ -1,0 +1,14 @@
+strcmpr: main.o FileIO.o driver.o
+	g++ -o strcmpr main.o FileIO.o driver.o
+
+main.o: main.cpp
+	g++ -c main.cpp
+
+FileIO.o: FileIO.cpp FileIO.hpp
+	g++ -c FileIO.cpp
+	
+driver.o: driver.cpp driver.hpp
+	g++ -c driver.cpp
+
+clean:
+	rm main.o FileIO.o driver.o
